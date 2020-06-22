@@ -1,0 +1,15 @@
+.reload {
+  display: flex;
+  height: 70px;
+}
+
+.ui.reload.button {
+  height: 40px;
+  width: 50px;
+  margin-left: 20px;
+  padding-left: 20px;
+}
+
+.ui.reload.button:hover {
+  background-color: lightgray;
+}

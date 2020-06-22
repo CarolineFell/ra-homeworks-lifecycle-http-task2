@@ -1,0 +1,9 @@
+.header {
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 50px;
+}
+
+h1:first-child {
+  margin-top: 80px;
+}

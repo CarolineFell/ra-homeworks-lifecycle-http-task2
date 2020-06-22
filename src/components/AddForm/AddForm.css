@@ -1,0 +1,10 @@
+.ui.add.button {
+  position: absolute;
+  width: 52px;
+  right: -2px;
+  bottom: 2px;
+}
+
+.ui.add.button:hover {
+  background-color: lightgray;
+}
