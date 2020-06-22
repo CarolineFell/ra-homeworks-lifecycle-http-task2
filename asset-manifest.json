@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra-homeworks-lifecycle-http-task2/static/css/main.ecb7eba3.chunk.css",
+    "main.js": "/ra-homeworks-lifecycle-http-task2/static/js/main.87de7863.chunk.js",
+    "main.js.map": "/ra-homeworks-lifecycle-http-task2/static/js/main.87de7863.chunk.js.map",
+    "runtime-main.js": "/ra-homeworks-lifecycle-http-task2/static/js/runtime-main.56b23e0b.js",
+    "runtime-main.js.map": "/ra-homeworks-lifecycle-http-task2/static/js/runtime-main.56b23e0b.js.map",
+    "static/js/2.de114bc5.chunk.js": "/ra-homeworks-lifecycle-http-task2/static/js/2.de114bc5.chunk.js",
+    "static/js/2.de114bc5.chunk.js.map": "/ra-homeworks-lifecycle-http-task2/static/js/2.de114bc5.chunk.js.map",
+    "index.html": "/ra-homeworks-lifecycle-http-task2/index.html",
+    "precache-manifest.0d0da6e8c288aa5a03d8371823d5a66a.js": "/ra-homeworks-lifecycle-http-task2/precache-manifest.0d0da6e8c288aa5a03d8371823d5a66a.js",
+    "service-worker.js": "/ra-homeworks-lifecycle-http-task2/service-worker.js",
+    "static/css/main.ecb7eba3.chunk.css.map": "/ra-homeworks-lifecycle-http-task2/static/css/main.ecb7eba3.chunk.css.map",
+    "static/js/2.de114bc5.chunk.js.LICENSE.txt": "/ra-homeworks-lifecycle-http-task2/static/js/2.de114bc5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56b23e0b.js",
+    "static/js/2.de114bc5.chunk.js",
+    "static/css/main.ecb7eba3.chunk.css",
+    "static/js/main.87de7863.chunk.js"
+  ]
+}
